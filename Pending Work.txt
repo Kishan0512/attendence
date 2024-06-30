@@ -1,0 +1,4 @@
+1. Swip button problem
+2. Employee profile horizontel Swipe problem
+4. Dialog Box ma instance time show nathi thato Employ profile ma
+

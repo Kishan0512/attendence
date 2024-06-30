@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "582609000807",
+    "project_id": "attendy-7d8f4",
+    "storage_bucket": "attendy-7d8f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582609000807:android:07be7e6062030e55f177c2",
+        "android_client_info": {
+          "package_name": "com.example.attendy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582609000807-mf9nk0ot0v6tgkqooi1mo82vbubjliha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attendy",
+            "certificate_hash": "73cb482eaee590813b3ae9282f48da9ebc321433"
+          }
+        },
+        {
+          "client_id": "582609000807-m8vdr183pma8m876j5d3aat8tckkfms4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbyvZByQ6NYBzwaSWthMoyNekrFcsIPNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582609000807-m8vdr183pma8m876j5d3aat8tckkfms4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
